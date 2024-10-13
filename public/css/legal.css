@@ -1,0 +1,7 @@
+/* Styles the body tag of the legal view */
+body{
+	background-color: lightyellow;
+	padding: 30px 100px 30px 100px;
+	max-width: 1450px;
+	margin: 0 auto;
+}

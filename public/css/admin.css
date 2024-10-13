@@ -1,0 +1,56 @@
+/* styles the body of the admin view for settings*/
+body {
+	background-color: lightyellow;
+	max-width: 1450px;
+	margin: 0 auto;
+}
+
+main {
+	padding-bottom: 50px;
+}
+
+/* Styles the h1 tag */
+h1 {
+	height: 0px;
+	text-align: center;
+}
+
+/* Styles the  tags in the category form*/
+#form-create {
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 1px solid lightgrey;
+	padding-bottom: 12px;
+}
+
+/* Styles the form delete container */
+#form-delete-container {
+	border-bottom: 1px solid lightgrey;
+	padding-bottom: 12px;
+}
+
+/* Sttles the tags in the delete form */
+#form-delete {
+	width: 600px;
+	position: relative;
+	left: 450px;
+}
+
+#form-update {
+	padding-left: 30px;
+}
+
+/* Styles the submit button */
+.submit-btn {
+	background-color: lightgreen;
+}
+
+/* Styles the delete button */
+.delete-btn {
+	background-color: coral;
+}
+
+/* Styles the update button */
+.update-btn {
+	background-color: yellow;
+}
