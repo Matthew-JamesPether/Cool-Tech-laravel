@@ -17,43 +17,43 @@ This project uses a laravel framework to design a website that displays articles
 
 ### Usage
 A screenshot of the home page.
-![Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(1).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(1).png)
+![Cool-Tech-laravel Screenshot(1).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(1).png)
 
 A screenshot of the aritcle page which is displayed when a user selects an article.
-![Screenshot (2)](../cool-tech/public/screenshots/Screenshot%20(2).png)
+![Cool-Tech-laravel Screenshot(2).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(2).png)
 
 A screenshot of the category page which is displayed when a user selects a category.
-![Screenshot (3)](../cool-tech/public/screenshots/Screenshot%20(3).png)
+![Cool-Tech-laravel Screenshot(3).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(3).png)
 
 A screenshot of the tag page which is displayed when a user selects a tag.
-![Screenshot (4)](../cool-tech/public/screenshots/Screenshot%20(4).png)
+![Cool-Tech-laravel Screenshot(4).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(4).png)
 
 A screenshot of the search page which is displayed when a user selects search.
-![Screenshot (5)](../cool-tech/public/screenshots/Screenshot%20(5).png)
+![Cool-Tech-laravel Screenshot(5).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(5).png)
 
 A screenshot of the register page which is displayed when a user selects register.
-![Screenshot (6)](../cool-tech/public/screenshots/Screenshot%20(6).png)
+![Cool-Tech-laravel Screenshot(6).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(6).png)
 
 A screenshot of the login page which is displayed when a user selects login.
-![Screenshot (7)](../cool-tech/public/screenshots/Screenshot%20(7).png)
+![Cool-Tech-laravel Screenshot(7).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(7).png)
 
 A screenshot of the user logged in. A message will appear noting the a user has login and will display a new link to a writer page.
-![Screenshot (8)](../cool-tech/public/screenshots/Screenshot%20(8).png)
+![Cool-Tech-laravel Screenshot(8).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(8).png)
 
 A screenshot of the writer page which is displayed when a user selects 'Would you like top add a new article'.
-![Screenshot (9)](../cool-tech/public/screenshots/Screenshot%20(9).png)
+![Cool-Tech-laravel Screenshot(9).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(9).png)
 
 A screenshot of the user logged out. A message will appear noting the a user has logged out and will display the original home page.
-![Screenshot (10)](../cool-tech/public/screenshots/Screenshot%20(11).png)
+![Cool-Tech-laravel Screenshot(10).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(10).png)
 
 A screenshot of the admin logged in. A message will appear noting the admin that he has logged in and will display a new link to a writer page and admin page.
-![Screenshot (11)](../cool-tech/public/screenshots/Screenshot%20(12).png)
+![Cool-Tech-laravel Screenshot(11).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(11).png)
 
 A screenshot of the admin page which is displayed when a user selects 'Admin Setttings'.
-![Screenshot (12)](../cool-tech/public/screenshots/Screenshot%20(13).png)
+![Cool-Tech-laravel Screenshot(12).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(12).png)
 
 A screenshot of the legel page which is displayed when a user selects 'Legal Page'.
-![Screenshot (13)](../cool-tech/public/screenshots/Screenshot%20(13).png)
+![Cool-Tech-laravel Screenshot(13).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(13).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
