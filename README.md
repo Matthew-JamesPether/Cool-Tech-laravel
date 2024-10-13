@@ -17,7 +17,7 @@ This project uses a laravel framework to design a website that displays articles
 
 ### Usage
 A screenshot of the home page.
-![Screenshot (1)](../cool-tech/public/screenshots/Screenshot%20(1).png)
+![Screenshot (1)](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(1).png)
 
 A screenshot of the aritcle page which is displayed when a user selects an article.
 ![Screenshot (2)](../cool-tech/public/screenshots/Screenshot%20(2).png)
