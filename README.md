@@ -53,7 +53,7 @@ A screenshot of the admin page which is displayed when a user selects 'Admin Set
 ![Cool-Tech-laravel Screenshot(12).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(12).png)
 
 A screenshot of the legel page which is displayed when a user selects 'Legal Page'.
-![Cool-Tech-laravel Screenshot(13).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(13).png)
+![public/screenshots/Screenshot (13).png](https://github.com/Matthew-JamesPether/Cool-Tech-laravel/tree/master/public/screenshots/Screenshot%20(13).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
